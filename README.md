@@ -33,7 +33,8 @@ The following animation shows the web application's appearance and functionality
 ## Usage
 
 ```
-The following links lead to github repository with my project and application live URL.
+The following links lead to gitgub repository with my project and application live URL.
+https://tatiana404.github.io/My_improved_portfolio/
 
 ```
 
