@@ -27,14 +27,15 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 The following animation shows the web application's appearance and functionality:
 
-![screencapture-tatiana404-github-io-challenge2-portfolio-2023-10-16-21_36_21](https://github.com/tatiana404/challenge2_portfolio/assets/65060199/ec935624-bc66-4621-ad37-e15b13fa2b19)
+![portfolio](https://github.com/tatiana404/challenge2_portfolio/assets/65060199/75f6440f-7e0a-423c-ad8f-a9d1da0b460d)
+
 
 
 ```
 ## Usage
 
 ```
-The following links lead to gitgub repository with my project and application live URL.
+The following links lead to GitHub repository with my project and application live URL.
 https://tatiana404.github.io/challenge2_portfolio/
 
 ```
