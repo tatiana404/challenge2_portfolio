@@ -27,14 +27,15 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./portfolio.png)
+![screencapture-tatiana404-github-io-challenge2-portfolio-2023-10-16-21_36_21](https://github.com/tatiana404/challenge2_portfolio/assets/65060199/ec935624-bc66-4621-ad37-e15b13fa2b19)
+
 
 ```
 ## Usage
 
 ```
 The following links lead to gitgub repository with my project and application live URL.
-https://tatiana404.github.io/My_improved_portfolio/
+https://tatiana404.github.io/challenge2_portfolio/
 
 ```
 
