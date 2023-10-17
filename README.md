@@ -27,7 +27,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 The following animation shows the web application's appearance and functionality:
 
-![portfolio](https://github.com/tatiana404/challenge2_portfolio/assets/65060199/75f6440f-7e0a-423c-ad8f-a9d1da0b460d)
+![portfolio](https://github.com/tatiana404/challenge2_portfolio/assets/65060199/b050ec17-51b2-47ab-838e-2448c7cd14cd)
 
 
 
